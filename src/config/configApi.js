@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: "back-upload-ivd45fggt-juniorrodrigu.vercel.app"
+    baseURL: "https://back-upload-img.vercel.app"
 });
