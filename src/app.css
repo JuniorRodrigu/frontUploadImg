@@ -1,0 +1,41 @@
+body {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .up {
+    margin-bottom: 30px;
+    color: #ff0000;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  .success {
+    color: green;
+  }
+  
+  .error {
+    color: #ff0000;
+  }
+  
+  label {
+    color: #fff;
+  }
+  
+  input[type="file"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px;
+  }
+  
+  button[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
