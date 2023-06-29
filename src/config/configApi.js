@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: "https://branched-selective-zone.glitch.me"
+    baseURL: "https://back-upload-img.vercel.app/"
 });
